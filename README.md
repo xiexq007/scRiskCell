@@ -9,7 +9,7 @@ This repository contains data, code, and documentation related to the analysis o
 - `/Data`  
   Donor-level statistics of cell type-specific proportions of risk cells.
 
-- `/Figure 1-2/`  
+- `/Figure 1-2`  
   Raw data, figures, scripts, and output results in HTML and Jupyter Notebook formats.
 
 - `/Figure X/Figure X.ipynb`  
@@ -18,7 +18,7 @@ This repository contains data, code, and documentation related to the analysis o
 - `/Figure X/Figure X.html`  
   Rendered markdown report generated from `.ipynb`, including annotations, code, and figures. Replace `X` with the figure number (1 or 2).
 
-- `/script/`  
+- `/script`  
   General R/Python scripts used throughout the study.
 
 ---
