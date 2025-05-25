@@ -18,7 +18,7 @@ This repository contains data, code, and documentation related to the analysis o
 - `/Figure X/Figure X.html`  
   Rendered markdown report generated from `.ipynb`, including annotations, code, and figures. Replace `X` with the figure number (1 or 2).
 
-- `/script`  
+- `/Scripts`  
   General R/Python scripts used throughout the study.
 
 ---
