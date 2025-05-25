@@ -1,0 +1,107 @@
+Data source,Donor,Disease
+HPAP,HPAP035,ND
+HPAP,HPAP050,ND
+HPAP,HPAP056,ND
+HPAP,HPAP080,ND
+HPAP,HPAP082,ND
+HPAP,HPAP093,ND
+HPAP,HPAP095,ND
+HPAP,HPAP097,ND
+HPAP,HPAP099,ND
+HPAP,HPAP101,ND
+HPAP,HPAP114,ND
+HPAP,HPAP119,ND
+HPAP,HPAP063,preT2D
+HPAP,HPAP074,preT2D
+HPAP,HPAP075,preT2D
+HPAP,HPAP077,preT2D
+HPAP,HPAP103,preT2D
+HPAP,HPAP117,preT2D
+HPAP,HPAP118,preT2D
+HPAP,HPAP061,T2D
+HPAP,HPAP081,T2D
+HPAP,HPAP088,T2D
+HPAP,HPAP100,T2D
+HPAP,HPAP090,T2D
+HPAP,HPAP096,T2D
+HPAP,HPAP106,T2D
+HPAP,HPAP108,T2D
+HPAP,HPAP109,T2D
+HPAP,HPAP111,T2D
+HPAP,HPAP120,T2D
+HPAP,HPAP126,T2D
+Motakis et al,Islet45,ND
+Motakis et al,Islet80,ND
+Motakis et al,Islet89,preT2D
+Motakis et al,Islet37,ND
+Motakis et al,Islet34,ND
+Motakis et al,Islet38,ND
+Motakis et al,Islet42,ND
+Motakis et al,Islet47,ND
+Motakis et al,Islet57,ND
+Motakis et al,Islet73,ND
+Motakis et al,Islet104,ND
+Motakis et al,Islet107,ND
+Motakis et al,Islet123,ND
+Motakis et al,Islet53,preT2D
+Motakis et al,Islet55,preT2D
+Motakis et al,Islet62,preT2D
+Motakis et al,Islet63,preT2D
+Motakis et al,Islet101,preT2D
+Motakis et al,Islet28,T2D
+Motakis et al,Islet30,T2D
+Motakis et al,Islet31,T2D
+Motakis et al,Islet32,T2D
+Motakis et al,Islet41,T2D
+Motakis et al,Islet48,T2D
+Motakis et al,Islet60,T2D
+Motakis et al,Islet91,T2D
+Motakis et al,Islet54,ND
+Motakis et al,Islet40,preT2D
+Motakis et al,Islet58,preT2D
+Motakis et al,Islet39,T2D
+Motakis et al,Islet128,T2D
+Motakis et al,Islet127,preT2D
+Motakis et al,Islet33,T2D
+Motakis et al,Islet44,T2D
+Motakis et al,Islet126,T2D
+Motakis et al,Islet29,ND
+Motakis et al,Islet59,ND
+Motakis et al,Islet61,ND
+Motakis et al,Islet68,ND
+Motakis et al,Islet50,preT2D
+Motakis et al,Islet56,preT2D
+Motakis et al,Islet52,T2D
+Zhang et al,HT2,ND
+Zhang et al,HT6,ND
+Zhang et al,HT4,preT2D
+Zhang et al,HT7,ND
+Zhang et al,HT1,preT2D
+Zhang et al,T2D3,T2D
+Zhang et al,T2D4,T2D
+Zhang et al,HT5,ND
+Zhang et al,T2D1,T2D
+Zhang et al,HT3,ND
+Zhang et al,T2D2,T2D
+Segerstolpe et al,HP1507101,ND
+Segerstolpe et al,HP1504901,ND
+Segerstolpe et al,HP1502401,ND
+Segerstolpe et al,HP1509101,ND
+Segerstolpe et al,HP1508501T2D,T2D
+Segerstolpe et al,AZ,ND
+Segerstolpe et al,HP1506401,preT2D
+Segerstolpe et al,HP1525301T2D,T2D
+Segerstolpe et al,HP1526901T2D,T2D
+Segerstolpe et al,HP1504101T2D,T2D
+Xin et al,Donor2,ND
+Xin et al,Donor8,ND
+Xin et al,Donor1,ND
+Xin et al,Donor6,preT2D
+Xin et al,Donor7,ND
+Xin et al,Donor11,preT2D
+Xin et al,Donor5,ND
+Xin et al,Donor9,ND
+Xin et al,Donor3,ND
+Xin et al,Donor4,ND
+Xin et al,Donor10,ND
+Xin et al,Donor12,ND
