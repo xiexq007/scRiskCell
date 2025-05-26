@@ -3,7 +3,7 @@
 This repository contains data, code, and documentation related to the analysis of donor-level, cell type-specific risk cell proportions.
 
 ![Graphical Abstract](Graphical_abstract.png)
----
+
 
 ## 📁 Directory Structure
 
@@ -22,7 +22,7 @@ This repository contains data, code, and documentation related to the analysis o
 - `/Scripts`  
   General R/Python scripts used throughout the study.
 
----
+
 
 ## 📊 Raw Data
 
