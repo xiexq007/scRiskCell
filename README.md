@@ -1,5 +1,5 @@
 # scRiskCell
-![Graphical Abstract](Graphical Abstract.jpg)
+![Graphical Abstract](./Graphical-Abstract.png)
 This repository contains data, code, and documentation related to the analysis of donor-level, cell type-specific risk cell proportions.
 
 ---
